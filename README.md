@@ -173,6 +173,14 @@
      [url "[https://your-domain.com/gh/"]
     	 insteadOf = https://github.com/
      ```
+# 来源说明
+
+本文档及相关代码基于以下开源项目：
+
+- **项目名称**: Cloudflare-Accel
+- **作者**: fscarmen2
+- **源码仓库**: [https://github.com/fscarmen2/Cloudflare-Accel](https://github.com/fscarmen2/Cloudflare-Accel)
+
 ## 许可证
 
-本项目基于 MIT 许可证。详情见 [LICENSE](LICENSE) 文件。
+该项目遵循 GPL 许可证。有关详细信息，请参阅原项目仓库中的 [LICENSE](https://github.com/fscarmen2/Cloudflare-Accel/blob/main/LICENSE) 文件。
