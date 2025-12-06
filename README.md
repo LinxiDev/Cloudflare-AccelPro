@@ -51,7 +51,7 @@
    - 登录 [Cloudflare 仪表板](https://dash.cloudflare.com/)。
    - 转到 Pages 部分，点击“创建项目”。
    - 选择“连接到 Git 仓库”或“直接上传”。
-     - **Git 仓库**：连接 GitHub 仓库（如 `fscarmen2/Cloudflare-AccelPro`），选择包含 `_worker.js` 的分支。
+     - **Git 仓库**：连接 GitHub 仓库（如 `LinxiDev/Cloudflare-AccelPro`），选择包含 `_worker.js` 的分支。
      - **直接上传**：上传包含 `_worker.js` 的文件夹（至少包含 `_worker.js` 文件）。
 
 2. **配置构建设置**：
